@@ -1,0 +1,6 @@
+torchvision服务于PyTorch深度学习框架，需要单独安装，主要用来构建计算机视觉模型
+以下是torchvision的构成：
+①torchvision.datasets: 一些加载数据的函数及常用的数据集接口
+②torchvision.models: 包含常用的模型结构(含预训练模型)，例如AlexNet、VGG、ResNet等
+③torchvision.transforms: 常用的图片变换，例如裁剪、旋转等
+④torchvision.utils: 其他的一些有用的方法
